@@ -1,4 +1,5 @@
-﻿namespace Razor.CleanArchitecture.Domain;
+﻿using MediatR;
+namespace Razor.CleanArchitecture.Domain.Common;
 
 public abstract class BaseEvent : INotification
 {

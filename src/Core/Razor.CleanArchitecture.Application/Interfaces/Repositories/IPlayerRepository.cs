@@ -1,4 +1,5 @@
-﻿namespace Razor.CleanArchitecture.Application;
+﻿using Razor.CleanArchitecture.Domain.Entities;
+namespace Razor.CleanArchitecture.Application.Common.Interfaces.Repositories;
 
 public interface IPlayerRepository
 {

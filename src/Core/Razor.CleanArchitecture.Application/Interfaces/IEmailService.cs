@@ -1,4 +1,5 @@
-﻿namespace Razor.CleanArchitecture.Application;
+﻿using Razor.CleanArchitecture.Application.DTOs.Email;
+namespace Razor.CleanArchitecture.Application.Interfaces;
 
 public interface IEmailService
 {

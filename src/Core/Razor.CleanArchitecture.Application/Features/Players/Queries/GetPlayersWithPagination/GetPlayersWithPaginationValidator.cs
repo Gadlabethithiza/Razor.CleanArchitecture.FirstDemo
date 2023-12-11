@@ -1,4 +1,5 @@
-﻿namespace Razor.CleanArchitecture.Application;
+﻿using FluentValidation;
+namespace Razor.CleanArchitecture.Application.Features.Players.Queries.GetPlayersWithPagination;
 
 public class GetPlayersWithPaginationValidator : AbstractValidator<GetPlayersWithPaginationQuery>
 {

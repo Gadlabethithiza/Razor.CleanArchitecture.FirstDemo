@@ -1,4 +1,4 @@
-﻿namespace Razor.CleanArchitecture.Domain;
+﻿namespace Razor.CleanArchitecture.Domain.Common.Interfaces;
 
 public interface IAuditableEntity : IEntity
 {

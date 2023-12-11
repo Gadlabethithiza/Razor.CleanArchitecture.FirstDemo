@@ -1,3 +1,4 @@
+using System.Security.Cryptography;
 namespace Razor.CleanArchitecture.Domain.Common.Interfaces
 {
     public interface IEntity

@@ -1,4 +1,6 @@
-﻿namespace Razor.CleanArchitecture.Domain;
+﻿using Razor.CleanArchitecture.Domain.Common.Interfaces;
+using System.ComponentModel.DataAnnotations.Schema;
+namespace Razor.CleanArchitecture.Domain.Common;
 
 public abstract class BaseEntity : IEntity
 {

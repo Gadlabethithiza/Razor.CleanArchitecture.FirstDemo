@@ -1,5 +1,9 @@
-﻿namespace Razor.CleanArchitecture.Application;
+﻿using Microsoft.Extensions.DependencyInjection;
+using MediatR;
+using System.Reflection;
+using FluentValidation;
 
+namespace Razor.CleanArchitecture.Application.Extensions;
 public static class IServiceCollectionExtensions
 {
     public static void AddApplicationLayer(this IServiceCollection services)

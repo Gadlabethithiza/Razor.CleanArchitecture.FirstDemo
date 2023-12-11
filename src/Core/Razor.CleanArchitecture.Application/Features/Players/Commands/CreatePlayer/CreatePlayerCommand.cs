@@ -1,6 +1,11 @@
-﻿
-using Razor.CleanArchitecture.Domain;
-namespace Razor.CleanArchitecture.Application;
+﻿using AutoMapper;
+using MediatR;
+
+using Razor.CleanArchitecture.Application.Interfaces.Repositories;
+using Razor.CleanArchitecture.Shared;
+using Razor.CleanArchitecture.Domain.Entities;
+using Razor.CleanArchitecture.Application.Common.Mappings;
+namespace Razor.CleanArchitecture.Application.Features.Players.Commands.CreatePlayer;
 
 public record CreatePlayerCommand : IRequest<Result<int>>, IMapFrom<Player>
 {
