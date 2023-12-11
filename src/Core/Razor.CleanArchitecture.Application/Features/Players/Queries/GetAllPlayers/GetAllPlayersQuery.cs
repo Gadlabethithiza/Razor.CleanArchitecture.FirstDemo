@@ -1,12 +1,9 @@
 ﻿using AutoMapper;
 using AutoMapper.QueryableExtensions;
-
-using Razor.CleanArchitecture.Application.Extensions;
 using Razor.CleanArchitecture.Application.Interfaces.Repositories;
 using Razor.CleanArchitecture.Domain.Entities;
 using Razor.CleanArchitecture.Shared;
 using MediatR;
-
 using Microsoft.EntityFrameworkCore; 
 
 namespace Razor.CleanArchitecture.Application.Features.Players.Queries.GetPlayersWithPagination

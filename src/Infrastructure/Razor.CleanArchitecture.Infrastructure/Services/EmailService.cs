@@ -1,7 +1,5 @@
-﻿using Razor.CleanArchitecture.Application.DTOs.Email;
+﻿using Razor.CleanArchitecture.Application.Email;
 using Razor.CleanArchitecture.Application.Interfaces;
-
-using Microsoft.Extensions.Logging;
 using System.Net.Mail;
 
 namespace Razor.CleanArchitecture.Infrastructure.Services;

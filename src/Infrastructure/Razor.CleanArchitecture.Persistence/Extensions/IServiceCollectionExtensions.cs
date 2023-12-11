@@ -5,6 +5,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Configuration;
 using System.Reflection;
 using Microsoft.EntityFrameworkCore;
+using Razor.CleanArchitecture.Application.Common.Interfaces.Repositories;
 
 namespace Razor.CleanArchitecture.Persistence.Extensions;
 public static class IServiceCollectionExtensions

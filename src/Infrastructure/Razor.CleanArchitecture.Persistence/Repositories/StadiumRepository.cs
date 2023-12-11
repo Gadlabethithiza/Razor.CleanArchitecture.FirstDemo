@@ -9,6 +9,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Razor.CleanArchitecture.Application.Common.Interfaces.Repositories;
 
 namespace Razor.CleanArchitecture.Persistence.Repositories
 {

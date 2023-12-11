@@ -1,5 +1,6 @@
 ﻿using Razor.CleanArchitecture.Domain.Common.Interfaces;
 using MediatR;
+using Razor.CleanArchitecture.Domain.Common;
 namespace Razor.CleanArchitecture.Domain;
 
 public class DomainEventDispatcher : IDomainEventDispatcher

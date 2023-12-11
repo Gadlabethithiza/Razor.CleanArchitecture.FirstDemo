@@ -1,0 +1,12 @@
+/Users/mac/Projects/WEB APPS/uDemyCourse/RazorCleanArchitectureFirst/src/Core/Razor.CleanArchitecture.Domain/obj/Debug/net7.0/Razor.CleanArchitecture.Domain.csproj.AssemblyReference.cache
+/Users/mac/Projects/WEB APPS/uDemyCourse/RazorCleanArchitectureFirst/src/Core/Razor.CleanArchitecture.Domain/obj/Debug/net7.0/Razor.CleanArchitecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Projects/WEB APPS/uDemyCourse/RazorCleanArchitectureFirst/src/Core/Razor.CleanArchitecture.Domain/obj/Debug/net7.0/Razor.CleanArchitecture.Domain.AssemblyInfoInputs.cache
+/Users/mac/Projects/WEB APPS/uDemyCourse/RazorCleanArchitectureFirst/src/Core/Razor.CleanArchitecture.Domain/obj/Debug/net7.0/Razor.CleanArchitecture.Domain.AssemblyInfo.cs
+/Users/mac/Projects/WEB APPS/uDemyCourse/RazorCleanArchitectureFirst/src/Core/Razor.CleanArchitecture.Domain/obj/Debug/net7.0/Razor.CleanArchitecture.Domain.csproj.CoreCompileInputs.cache
+/Users/mac/Projects/WEB APPS/uDemyCourse/RazorCleanArchitectureFirst/src/Core/Razor.CleanArchitecture.Domain/bin/Debug/net7.0/Razor.CleanArchitecture.Domain.deps.json
+/Users/mac/Projects/WEB APPS/uDemyCourse/RazorCleanArchitectureFirst/src/Core/Razor.CleanArchitecture.Domain/bin/Debug/net7.0/Razor.CleanArchitecture.Domain.dll
+/Users/mac/Projects/WEB APPS/uDemyCourse/RazorCleanArchitectureFirst/src/Core/Razor.CleanArchitecture.Domain/bin/Debug/net7.0/Razor.CleanArchitecture.Domain.pdb
+/Users/mac/Projects/WEB APPS/uDemyCourse/RazorCleanArchitectureFirst/src/Core/Razor.CleanArchitecture.Domain/obj/Debug/net7.0/Razor.CleanArchitecture.Domain.dll
+/Users/mac/Projects/WEB APPS/uDemyCourse/RazorCleanArchitectureFirst/src/Core/Razor.CleanArchitecture.Domain/obj/Debug/net7.0/refint/Razor.CleanArchitecture.Domain.dll
+/Users/mac/Projects/WEB APPS/uDemyCourse/RazorCleanArchitectureFirst/src/Core/Razor.CleanArchitecture.Domain/obj/Debug/net7.0/Razor.CleanArchitecture.Domain.pdb
+/Users/mac/Projects/WEB APPS/uDemyCourse/RazorCleanArchitectureFirst/src/Core/Razor.CleanArchitecture.Domain/obj/Debug/net7.0/ref/Razor.CleanArchitecture.Domain.dll

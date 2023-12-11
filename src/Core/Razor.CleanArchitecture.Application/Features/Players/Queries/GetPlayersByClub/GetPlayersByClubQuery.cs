@@ -5,7 +5,8 @@ using Razor.CleanArchitecture.Application.Interfaces.Repositories;
 using Razor.CleanArchitecture.Domain.Entities;
 using Razor.CleanArchitecture.Shared;
 using MediatR;
-using Microsoft.EntityFrameworkCore; 
+using Microsoft.EntityFrameworkCore;
+using Razor.CleanArchitecture.Application.Common.Interfaces.Repositories;
 
 namespace Razor.CleanArchitecture.Application.Features.Players.Queries.GetPlayersWithPagination
 {

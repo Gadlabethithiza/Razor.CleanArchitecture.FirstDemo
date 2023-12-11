@@ -1,4 +1,5 @@
-﻿using Razor.CleanArchitecture.Domain.Common;
+﻿using Razor.CleanArchitecture.Application.Common.Interfaces.Repositories;
+using Razor.CleanArchitecture.Domain.Common;
 namespace Razor.CleanArchitecture.Application.Interfaces.Repositories;
 
 public interface IUnitOfWork : IDisposable

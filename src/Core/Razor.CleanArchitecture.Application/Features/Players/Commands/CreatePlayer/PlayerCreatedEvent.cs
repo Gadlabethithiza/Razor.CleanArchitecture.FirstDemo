@@ -1,5 +1,5 @@
-﻿using Razor.CleanArchitecture..Domain.Common;
-using Razor.CleanArchitecture..Domain.Entities;
+﻿using Razor.CleanArchitecture.Domain.Common;
+using Razor.CleanArchitecture.Domain.Entities;
 namespace Razor.CleanArchitecture.Application.Features.Players.Commands.CreatePlayer;
 
 public class PlayerCreatedEvent : BaseEvent

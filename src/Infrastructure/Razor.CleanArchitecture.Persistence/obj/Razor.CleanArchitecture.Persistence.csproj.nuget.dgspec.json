@@ -4,14 +4,104 @@
     "/Users/mac/Projects/WEB APPS/uDemyCourse/RazorCleanArchitectureFirst/src/Infrastructure/Razor.CleanArchitecture.Persistence/Razor.CleanArchitecture.Persistence.csproj": {}
   },
   "projects": {
-    "/Users/mac/Projects/WEB APPS/uDemyCourse/RazorCleanArchitectureFirst/src/Infrastructure/Razor.CleanArchitecture.Persistence/Razor.CleanArchitecture.Persistence.csproj": {
+    "/Users/mac/Projects/WEB APPS/uDemyCourse/RazorCleanArchitectureFirst/src/Core/Razor.CleanArchitecture.Application/Razor.CleanArchitecture.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mac/Projects/WEB APPS/uDemyCourse/RazorCleanArchitectureFirst/src/Infrastructure/Razor.CleanArchitecture.Persistence/Razor.CleanArchitecture.Persistence.csproj",
-        "projectName": "Razor.CleanArchitecture.Persistence",
-        "projectPath": "/Users/mac/Projects/WEB APPS/uDemyCourse/RazorCleanArchitectureFirst/src/Infrastructure/Razor.CleanArchitecture.Persistence/Razor.CleanArchitecture.Persistence.csproj",
+        "projectUniqueName": "/Users/mac/Projects/WEB APPS/uDemyCourse/RazorCleanArchitectureFirst/src/Core/Razor.CleanArchitecture.Application/Razor.CleanArchitecture.Application.csproj",
+        "projectName": "Razor.CleanArchitecture.Application",
+        "projectPath": "/Users/mac/Projects/WEB APPS/uDemyCourse/RazorCleanArchitectureFirst/src/Core/Razor.CleanArchitecture.Application/Razor.CleanArchitecture.Application.csproj",
         "packagesPath": "/Users/mac/.nuget/packages/",
-        "outputPath": "/Users/mac/Projects/WEB APPS/uDemyCourse/RazorCleanArchitectureFirst/src/Infrastructure/Razor.CleanArchitecture.Persistence/obj/",
+        "outputPath": "/Users/mac/Projects/WEB APPS/uDemyCourse/RazorCleanArchitectureFirst/src/Core/Razor.CleanArchitecture.Application/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/mac/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/mac/Projects/WEB APPS/uDemyCourse/RazorCleanArchitectureFirst/src/Core/Razor.CleanArchitecture.Domain/Razor.CleanArchitecture.Domain.csproj": {
+                "projectPath": "/Users/mac/Projects/WEB APPS/uDemyCourse/RazorCleanArchitectureFirst/src/Core/Razor.CleanArchitecture.Domain/Razor.CleanArchitecture.Domain.csproj"
+              },
+              "/Users/mac/Projects/WEB APPS/uDemyCourse/RazorCleanArchitectureFirst/src/Shared/Razor.CleanArchitecture.Shared/Razor.CleanArchitecture.Shared.csproj": {
+                "projectPath": "/Users/mac/Projects/WEB APPS/uDemyCourse/RazorCleanArchitectureFirst/src/Shared/Razor.CleanArchitecture.Shared/Razor.CleanArchitecture.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.8.1, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mac/Projects/WEB APPS/uDemyCourse/RazorCleanArchitectureFirst/src/Core/Razor.CleanArchitecture.Domain/Razor.CleanArchitecture.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mac/Projects/WEB APPS/uDemyCourse/RazorCleanArchitectureFirst/src/Core/Razor.CleanArchitecture.Domain/Razor.CleanArchitecture.Domain.csproj",
+        "projectName": "Razor.CleanArchitecture.Domain",
+        "projectPath": "/Users/mac/Projects/WEB APPS/uDemyCourse/RazorCleanArchitectureFirst/src/Core/Razor.CleanArchitecture.Domain/Razor.CleanArchitecture.Domain.csproj",
+        "packagesPath": "/Users/mac/.nuget/packages/",
+        "outputPath": "/Users/mac/Projects/WEB APPS/uDemyCourse/RazorCleanArchitectureFirst/src/Core/Razor.CleanArchitecture.Domain/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -45,12 +135,153 @@
             "MediatR": {
               "target": "Package",
               "version": "[12.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mac/Projects/WEB APPS/uDemyCourse/RazorCleanArchitectureFirst/src/Infrastructure/Razor.CleanArchitecture.Persistence/Razor.CleanArchitecture.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mac/Projects/WEB APPS/uDemyCourse/RazorCleanArchitectureFirst/src/Infrastructure/Razor.CleanArchitecture.Persistence/Razor.CleanArchitecture.Persistence.csproj",
+        "projectName": "Razor.CleanArchitecture.Persistence",
+        "projectPath": "/Users/mac/Projects/WEB APPS/uDemyCourse/RazorCleanArchitectureFirst/src/Infrastructure/Razor.CleanArchitecture.Persistence/Razor.CleanArchitecture.Persistence.csproj",
+        "packagesPath": "/Users/mac/.nuget/packages/",
+        "outputPath": "/Users/mac/Projects/WEB APPS/uDemyCourse/RazorCleanArchitectureFirst/src/Infrastructure/Razor.CleanArchitecture.Persistence/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/mac/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/mac/Projects/WEB APPS/uDemyCourse/RazorCleanArchitectureFirst/src/Core/Razor.CleanArchitecture.Application/Razor.CleanArchitecture.Application.csproj": {
+                "projectPath": "/Users/mac/Projects/WEB APPS/uDemyCourse/RazorCleanArchitectureFirst/src/Core/Razor.CleanArchitecture.Application/Razor.CleanArchitecture.Application.csproj"
+              },
+              "/Users/mac/Projects/WEB APPS/uDemyCourse/RazorCleanArchitectureFirst/src/Core/Razor.CleanArchitecture.Domain/Razor.CleanArchitecture.Domain.csproj": {
+                "projectPath": "/Users/mac/Projects/WEB APPS/uDemyCourse/RazorCleanArchitectureFirst/src/Core/Razor.CleanArchitecture.Domain/Razor.CleanArchitecture.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.12, )"
             },
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
-              "version": "[8.0.0, )"
+              "version": "[7.0.0, )"
             }
           },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mac/Projects/WEB APPS/uDemyCourse/RazorCleanArchitectureFirst/src/Shared/Razor.CleanArchitecture.Shared/Razor.CleanArchitecture.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mac/Projects/WEB APPS/uDemyCourse/RazorCleanArchitectureFirst/src/Shared/Razor.CleanArchitecture.Shared/Razor.CleanArchitecture.Shared.csproj",
+        "projectName": "Razor.CleanArchitecture.Shared",
+        "projectPath": "/Users/mac/Projects/WEB APPS/uDemyCourse/RazorCleanArchitectureFirst/src/Shared/Razor.CleanArchitecture.Shared/Razor.CleanArchitecture.Shared.csproj",
+        "packagesPath": "/Users/mac/.nuget/packages/",
+        "outputPath": "/Users/mac/Projects/WEB APPS/uDemyCourse/RazorCleanArchitectureFirst/src/Shared/Razor.CleanArchitecture.Shared/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/mac/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
           "imports": [
             "net461",
             "net462",

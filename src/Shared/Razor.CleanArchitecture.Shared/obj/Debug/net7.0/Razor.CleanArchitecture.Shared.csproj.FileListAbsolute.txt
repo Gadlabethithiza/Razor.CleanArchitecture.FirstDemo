@@ -1,0 +1,11 @@
+/Users/mac/Projects/WEB APPS/uDemyCourse/RazorCleanArchitectureFirst/src/Shared/Razor.CleanArchitecture.Shared/bin/Debug/net7.0/Razor.CleanArchitecture.Shared.deps.json
+/Users/mac/Projects/WEB APPS/uDemyCourse/RazorCleanArchitectureFirst/src/Shared/Razor.CleanArchitecture.Shared/bin/Debug/net7.0/Razor.CleanArchitecture.Shared.dll
+/Users/mac/Projects/WEB APPS/uDemyCourse/RazorCleanArchitectureFirst/src/Shared/Razor.CleanArchitecture.Shared/bin/Debug/net7.0/Razor.CleanArchitecture.Shared.pdb
+/Users/mac/Projects/WEB APPS/uDemyCourse/RazorCleanArchitectureFirst/src/Shared/Razor.CleanArchitecture.Shared/obj/Debug/net7.0/Razor.CleanArchitecture.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Projects/WEB APPS/uDemyCourse/RazorCleanArchitectureFirst/src/Shared/Razor.CleanArchitecture.Shared/obj/Debug/net7.0/Razor.CleanArchitecture.Shared.AssemblyInfoInputs.cache
+/Users/mac/Projects/WEB APPS/uDemyCourse/RazorCleanArchitectureFirst/src/Shared/Razor.CleanArchitecture.Shared/obj/Debug/net7.0/Razor.CleanArchitecture.Shared.AssemblyInfo.cs
+/Users/mac/Projects/WEB APPS/uDemyCourse/RazorCleanArchitectureFirst/src/Shared/Razor.CleanArchitecture.Shared/obj/Debug/net7.0/Razor.CleanArchitecture.Shared.csproj.CoreCompileInputs.cache
+/Users/mac/Projects/WEB APPS/uDemyCourse/RazorCleanArchitectureFirst/src/Shared/Razor.CleanArchitecture.Shared/obj/Debug/net7.0/Razor.CleanArchitecture.Shared.dll
+/Users/mac/Projects/WEB APPS/uDemyCourse/RazorCleanArchitectureFirst/src/Shared/Razor.CleanArchitecture.Shared/obj/Debug/net7.0/refint/Razor.CleanArchitecture.Shared.dll
+/Users/mac/Projects/WEB APPS/uDemyCourse/RazorCleanArchitectureFirst/src/Shared/Razor.CleanArchitecture.Shared/obj/Debug/net7.0/Razor.CleanArchitecture.Shared.pdb
+/Users/mac/Projects/WEB APPS/uDemyCourse/RazorCleanArchitectureFirst/src/Shared/Razor.CleanArchitecture.Shared/obj/Debug/net7.0/ref/Razor.CleanArchitecture.Shared.dll

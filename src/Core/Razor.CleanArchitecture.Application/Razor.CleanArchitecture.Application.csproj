@@ -12,6 +12,11 @@
     <PackageReference Include="FluentValidation" Version="11.8.1" />
     <PackageReference Include="FluentValidation.AspNetCore" Version="11.3.0" />
     <PackageReference Include="MediatR" Version="12.2.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.12" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Razor.CleanArchitecture.Domain\Razor.CleanArchitecture.Domain.csproj" />
+    <ProjectReference Include="..\..\Shared\Razor.CleanArchitecture.Shared\Razor.CleanArchitecture.Shared.csproj" />
+  </ItemGroup>
 </Project>
