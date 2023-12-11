@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "X4LVuyUh1uPW7z5DEFRPz+sZvL5ZgzTUOMasIx9fqqgGeNYvoHtHeGzlq1wnCGIadyJfHvRyTY//9XAicnJOYQ==",
+  "dgSpecHash": "GMVEMBGmWZVS2jPoChsrsP2Ifi1TqV3gSqD/er4B5cq/R5fiUTeN+BIdERlseEu3Rt9dWAn9GpqOfXgty+/vrw==",
   "success": true,
   "projectFilePath": "/Users/mac/Projects/WEB APPS/uDemyCourse/RazorCleanArchitectureFirst/src/Core/Razor.CleanArchitecture.Domain/Razor.CleanArchitecture.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/mac/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
+    "/Users/mac/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/mac/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

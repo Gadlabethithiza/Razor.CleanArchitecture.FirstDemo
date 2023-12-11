@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "UNkoacBe6PZzIy8lQx3cQT8eMShQbb4+UfqaDabU7rM1ron16sVLyp+Vbw+i5VxjGbK++1PInP3KJ/6ZeWrK2w==",
+  "dgSpecHash": "R50orOxuTCNIQAViWaH6eVh2zHmHiJUSN8RXKJ+b2+vgKnKuyn2hu9mocZlPVhFzNow8vvRnw2RmXNkj3LBKLw==",
   "success": true,
   "projectFilePath": "/Users/mac/Projects/WEB APPS/uDemyCourse/RazorCleanArchitectureFirst/src/Infrastructure/Razor.CleanArchitecture.Persistence/Razor.CleanArchitecture.Persistence.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/mac/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
+    "/Users/mac/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/mac/.nuget/packages/microsoft.extensions.configuration/8.0.0/microsoft.extensions.configuration.8.0.0.nupkg.sha512",
+    "/Users/mac/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "/Users/mac/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/mac/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

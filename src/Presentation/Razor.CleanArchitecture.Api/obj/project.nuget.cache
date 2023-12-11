@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "goVxPvVkPTLGgr5QNWnTacYb+P2FN+XDW6lDTAsXKJYOUODDVe2TaPEEkMA9+9f6jFejTnG5BYp3HhAlV3lriA==",
+  "dgSpecHash": "ea382bfX6H24YUgxdIWUyaDv+uotquKhy5akMuMtGenEQM6c75VFpWL7Zvo4365Ln/w3Ij2Uh36AUGSTECo9dg==",
   "success": true,
   "projectFilePath": "/Users/mac/Projects/WEB APPS/uDemyCourse/RazorCleanArchitectureFirst/src/Presentation/Razor.CleanArchitecture.Api/Razor.CleanArchitecture.Api.csproj",
   "expectedPackageFiles": [
+    "/Users/mac/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
+    "/Users/mac/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
     "/Users/mac/.nuget/packages/microsoft.aspnetcore.openapi/7.0.12/microsoft.aspnetcore.openapi.7.0.12.nupkg.sha512",
     "/Users/mac/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/mac/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
     "/Users/mac/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
     "/Users/mac/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
     "/Users/mac/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
