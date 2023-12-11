@@ -1,0 +1,5 @@
+/Users/mac/Projects/WEB APPS/uDemyCourse/RazorCleanArchitectureFirst/src/Infrastructure/Razor.CleanArchitecture.Persistence/obj/Debug/net7.0/Razor.CleanArchitecture.Persistence.csproj.AssemblyReference.cache
+/Users/mac/Projects/WEB APPS/uDemyCourse/RazorCleanArchitectureFirst/src/Infrastructure/Razor.CleanArchitecture.Persistence/obj/Debug/net7.0/Razor.CleanArchitecture.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Projects/WEB APPS/uDemyCourse/RazorCleanArchitectureFirst/src/Infrastructure/Razor.CleanArchitecture.Persistence/obj/Debug/net7.0/Razor.CleanArchitecture.Persistence.AssemblyInfoInputs.cache
+/Users/mac/Projects/WEB APPS/uDemyCourse/RazorCleanArchitectureFirst/src/Infrastructure/Razor.CleanArchitecture.Persistence/obj/Debug/net7.0/Razor.CleanArchitecture.Persistence.AssemblyInfo.cs
+/Users/mac/Projects/WEB APPS/uDemyCourse/RazorCleanArchitectureFirst/src/Infrastructure/Razor.CleanArchitecture.Persistence/obj/Debug/net7.0/Razor.CleanArchitecture.Persistence.csproj.CoreCompileInputs.cache

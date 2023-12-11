@@ -3,6 +3,20 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Razor.CleanArchitecture.Application", "src\Core\Razor.CleanArchitecture.Application\Razor.CleanArchitecture.Application.csproj", "{AF7C0C32-D72C-4892-9A8B-CF012D6CD392}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Razor.CleanArchitecture.Domain", "src\Core\Razor.CleanArchitecture.Domain\Razor.CleanArchitecture.Domain.csproj", "{7A11199B-4D70-4936-9A9A-C67E3C3E27D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Razor.CleanArchitecture.Infrastructure", "src\Infrastructure\Razor.CleanArchitecture.Infrastructure\Razor.CleanArchitecture.Infrastructure.csproj", "{27B01C13-F184-4466-8434-D51C30FDB5AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Razor.CleanArchitecture.Persistence", "src\Infrastructure\Razor.CleanArchitecture.Persistence\Razor.CleanArchitecture.Persistence.csproj", "{10C70699-1818-4A17-979B-0A920DDB0F6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Razor.CleanArchitecture.Shared", "src\Shared\Razor.CleanArchitecture.Shared\Razor.CleanArchitecture.Shared.csproj", "{1EFD9322-5E1B-4C16-8D56-D189366ED947}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Razor.CleanArchitecture.Api", "src\Presentation\Razor.CleanArchitecture.Api\Razor.CleanArchitecture.Api.csproj", "{BB803BD2-C525-47A3-950F-1DABC93C584A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Razor.CleanArchitecture.Web", "src\Presentation\Razor.CleanArchitecture.Web\Razor.CleanArchitecture.Web.csproj", "{4CBEE0E1-89BC-4AE1-86BF-D3ADDE358F2E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
