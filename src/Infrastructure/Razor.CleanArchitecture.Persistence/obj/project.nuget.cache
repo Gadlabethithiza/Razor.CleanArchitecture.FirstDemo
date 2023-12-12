@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "9aYsvj+xVWUfJyuWnyXibL22hmOanOLVnocHxiFRx0Yk9IDDbj08esWgjuc4iS80Ba6LL6+oDrKP/xLH+Q4f+g==",
+  "dgSpecHash": "HVhqTDc3Za1sQ9vHG69V/rmeb78R7Dj5KYIbgPG6zVwPLuFxSd095zvRXMnWKbdj7dSxeBo9H5JNmhxj8mqWRA==",
   "success": true,
   "projectFilePath": "/Users/mac/Projects/WEB APPS/uDemyCourse/RazorCleanArchitectureFirst/src/Infrastructure/Razor.CleanArchitecture.Persistence/Razor.CleanArchitecture.Persistence.csproj",
   "expectedPackageFiles": [

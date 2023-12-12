@@ -6,7 +6,7 @@ public class Stadium : BaseAuditableEntity
         {
             Clubs = new List<Club>();
         }
-
+        public Guid ID { get; set; }
         public string Name { get; set; }
         public string PhotoUrl { get; set; }
         public int? Capacity { get; set; }

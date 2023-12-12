@@ -7,6 +7,7 @@ namespace Razor.CleanArchitecture.Domain.Entities;
         {
             Players = new List<Player>();
         }
+        public Guid ID { get; set; }
 
         public string Name { get; set; }
         public string PhotoUrl { get; set; }

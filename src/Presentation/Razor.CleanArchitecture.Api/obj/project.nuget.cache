@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "rDfopCnfPuozpBUVssxbOhHrXWmV8VC17UQyzJNdSQyKs7l99xFnCkYNeQn/Z+7gNH79Sm8JAYIIU0VDP/cm5w==",
+  "dgSpecHash": "LSkPGzjRh+hsYojqq1O4bvm85frtCLWsplwHiFzZ2xTILGugU2uJaS3YFaro7wAqShh18exgCOfWeSgWMmOYKg==",
   "success": true,
   "projectFilePath": "/Users/mac/Projects/WEB APPS/uDemyCourse/RazorCleanArchitectureFirst/src/Presentation/Razor.CleanArchitecture.Api/Razor.CleanArchitecture.Api.csproj",
   "expectedPackageFiles": [

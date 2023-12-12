@@ -3,6 +3,7 @@ namespace Razor.CleanArchitecture.Domain.Entities;
 
 public class Player : BaseAuditableEntity
 {
+        public Guid ID { get; set; }
         public string Name { get; set; }
         public int? ShirtNo { get; set; }
         public int? ClubId { get; set; }

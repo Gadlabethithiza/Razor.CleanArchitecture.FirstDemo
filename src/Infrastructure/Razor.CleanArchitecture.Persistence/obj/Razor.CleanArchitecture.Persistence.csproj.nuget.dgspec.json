@@ -185,9 +185,6 @@
             "projectReferences": {
               "/Users/mac/Projects/WEB APPS/uDemyCourse/RazorCleanArchitectureFirst/src/Core/Razor.CleanArchitecture.Application/Razor.CleanArchitecture.Application.csproj": {
                 "projectPath": "/Users/mac/Projects/WEB APPS/uDemyCourse/RazorCleanArchitectureFirst/src/Core/Razor.CleanArchitecture.Application/Razor.CleanArchitecture.Application.csproj"
-              },
-              "/Users/mac/Projects/WEB APPS/uDemyCourse/RazorCleanArchitectureFirst/src/Core/Razor.CleanArchitecture.Domain/Razor.CleanArchitecture.Domain.csproj": {
-                "projectPath": "/Users/mac/Projects/WEB APPS/uDemyCourse/RazorCleanArchitectureFirst/src/Core/Razor.CleanArchitecture.Domain/Razor.CleanArchitecture.Domain.csproj"
               }
             }
           }

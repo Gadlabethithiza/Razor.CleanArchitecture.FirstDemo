@@ -10,6 +10,8 @@ namespace Razor.CleanArchitecture.Domain.Entities;
             Stadiums = new List<Stadium>();
         }
 
+        public Guid ID { get; set; }
+
         public string Name { get; set; }
         public string TwoLetterIsoCode { get; set; }
         public string ThreeLetterIsoCode { get; set; }
