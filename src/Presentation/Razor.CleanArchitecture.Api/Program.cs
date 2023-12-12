@@ -20,8 +20,8 @@
 //Configure the HTTP request pipeline.
 //if (app.Environment.IsDevelopment())
 //{
-    //app.UseSwagger();
-    //app.UseSwaggerUI();
+//app.UseSwagger();
+//app.UseSwaggerUI();
 //}
 
 //app.UseHttpsRedirection();
@@ -30,6 +30,8 @@
 //app.MapControllers();
 //app.Run();
 
+
+using Razor.CleanArchitecture.Api.Bootstrapper;
 
 var app = AppBuilder.GetApp(args);
 app.Logger.LogInformation("application instance created");

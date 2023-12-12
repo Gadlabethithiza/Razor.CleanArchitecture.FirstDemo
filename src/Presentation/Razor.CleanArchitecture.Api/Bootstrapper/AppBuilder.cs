@@ -1,6 +1,9 @@
+using Microsoft.OpenApi.Models;
 using Razor.CleanArchitecture.Application.Extensions;
 using Razor.CleanArchitecture.Infrastructure.Extensions;
 using Razor.CleanArchitecture.Persistence.Extensions;
+using Serilog;
+
 
 namespace Razor.CleanArchitecture.Api.Bootstrapper
 {
@@ -12,11 +15,11 @@ namespace Razor.CleanArchitecture.Api.Bootstrapper
             builder.Logging.ClearProviders();
 
             // Use Serilog
-            builder.Host.UseSerilog((hostContext, services, configuration) => {
+            /* builder.Host.UseSerilog((hostContext, services, configuration) => {
                 configuration
                     .WriteTo.File($"serilog-file-{DateTime.Now.ToString("yyyyMMdd")}.txt")
                     .WriteTo.Console();
-            });
+            }); */
 
             // Add services to the container.
             builder.Services.AddApplicationLayer();

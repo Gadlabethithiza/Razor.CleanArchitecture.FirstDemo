@@ -1,4 +1,14 @@
-﻿namespace Razor.CleanArchitecture.Api;
+﻿using MediatR;
+using Razor.CleanArchitecture.Application.Features.Players.Queries.GetPlayersWithPagination;
+
+using Microsoft.AspNetCore.Mvc;
+using Razor.CleanArchitecture.Api.Controllers;
+using Razor.CleanArchitecture.Shared;
+using Razor.CleanArchitecture.Application.Features.Players.Commands.CreatePlayer;
+using Razor.CleanArchitecture.Application.Features.Players.Commands.UpdatePlayer;
+using Razor.CleanArchitecture.Application.Features.Players.Commands.DeletePlayer;
+
+namespace Razor.CleanArchitecture.Api;
 
 public class PlayersController : ApiControllerBase
 {

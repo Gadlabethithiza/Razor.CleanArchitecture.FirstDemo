@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7+ZU1apCxyu0T0HhORfKmucngEKzUVz3JFN+uU9myoI=",
+  "Source": "Razor.CleanArchitecture.Api",
+  "BasePath": "_content/Razor.CleanArchitecture.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

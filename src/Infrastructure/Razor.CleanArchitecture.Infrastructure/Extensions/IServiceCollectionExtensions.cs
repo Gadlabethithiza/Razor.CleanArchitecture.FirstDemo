@@ -1,10 +1,9 @@
 ﻿using Razor.CleanArchitecture.Application.Interfaces;
-using Razor.CleanArchitecture.Domain.Common;
+using Razor.CleanArchitecture.Domain;
 using Razor.CleanArchitecture.Domain.Common.Interfaces;
 using Razor.CleanArchitecture.Infrastructure.Services;
 
 using MediatR;
-
 using Microsoft.Extensions.DependencyInjection;
 
 namespace Razor.CleanArchitecture.Infrastructure.Extensions

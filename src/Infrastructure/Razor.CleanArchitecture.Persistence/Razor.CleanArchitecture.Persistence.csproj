@@ -18,7 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Core\Razor.CleanArchitecture.Domain\Razor.CleanArchitecture.Domain.csproj" />
+    <!-- <ProjectReference Include="..\..\Core\Razor.CleanArchitecture.Domain\Razor.CleanArchitecture.Domain.csproj" /> -->
     <ProjectReference Include="..\..\Core\Razor.CleanArchitecture.Application\Razor.CleanArchitecture.Application.csproj" />
   </ItemGroup>
 </Project>
